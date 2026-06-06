@@ -1,4 +1,4 @@
-# Hospitality-Management-Analysis-
+# Hospitality-Management-Analysis
 A dynamic Power BI dashboard built to analyze hotel performance across multiple cities, focusing on revenue, occupancy, and booking behavior. The project helps understand month-wise trends and operational efficiency in the hospitality sector.
 # Objective 
 The objective was to monitor how the hotel's rooms were performing month-to-month by evaluating operational KPIs like occupancy, ADR, RevPAR, and booking conversion. This analysis helps identify what’s driving performance changes and highlights areas where the hotel can improve efficiency and revenue strategy.
